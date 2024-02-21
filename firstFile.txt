@@ -4,7 +4,7 @@ Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 Added firstFile.txt to git_1
-Added firstFile.txt to git_1
-Added firstFile.txt to git_1
+Added firstFile.txt to git_1--
+Added firstFile.txt to git_1--
 Changed 2 lines in secondFile.txt in git_2
 Changed 2 lines in secondFile.txt in git_2
